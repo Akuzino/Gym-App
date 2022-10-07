@@ -1,3 +1,3 @@
 # Project Gym-app
 
-https://commercejs-kris.netlify.app/
+https://kris-gymapp.netlify.app
